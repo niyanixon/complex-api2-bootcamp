@@ -1,0 +1,12 @@
+body{
+    background: radial-gradient(#ff9aa6,#64e6e2);
+    background-repeat: no-repeat;
+    height: 900px;
+    text-align: center;
+}
+input{
+    height: 20px;
+}
+button{
+    height: 30px;
+}
